@@ -1,5 +1,4 @@
-// ===============================
-// 1) HolaMundo.java
+HolaMundo.java
 // ===============================
 public class HolaMundo {
     public static void main(String[] args) {
